@@ -5,5 +5,5 @@ Creation of a code for a robot line follower and object rescuer
 
 https://www.youtube.com/watch?v=Npqz3RF9ZEQ
 
-# Images of the robot
+# Image of the robot
 
