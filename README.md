@@ -7,4 +7,4 @@ https://www.youtube.com/watch?v=Npqz3RF9ZEQ
 
 # Image of the robot
 
-![robot](images/hbnb_logo.png)
+![robot](robot.jpg)
